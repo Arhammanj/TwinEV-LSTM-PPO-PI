@@ -1,0 +1,4 @@
+Scenario,Split,Hard Overloads,Soft Overloads,Peak kW,Peak Reduction %,Energy Delivered (kWh),Load Variance,Total Cost ($),Cost Saved ($),Cost Reduction %,Timestamp
+No Control (Raw),Test,293,331,340.0,0.0,85807.32,5949.3,,,,2026-07-26T02:16:04
+LSTM Forecast,Test,292,339,257.0,24.42,84606.34,5433.7,,,,2026-07-26T02:16:04
+RL + PI Agent,Test,0,0,104.2,69.37,34522.26,394.2,,,,2026-07-26T02:16:04

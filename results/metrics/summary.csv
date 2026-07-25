@@ -1,0 +1,4 @@
+Model,Split,Date,RMSE (kW),MAE (kW),MAPE (%),Hard Overloads,Soft Overloads,Peak kW,Peak Reduction %,Energy Delivered (kWh),Load Variance,Total Cost ($),Cost Saved ($),Cost Reduction %
+ARIMA,Test,2026-07-26T02:16:04,127.01,102.69,113.01,293,331,340.0,0.0,85807.32,5949.3,,,
+LSTM,Test,2026-07-26T02:16:04,82.92,64.78,50.73,292,339,257.0,24.42,84606.34,5433.7,,,
+RL + PI,Test,2026-07-26T02:16:04,122.35,103.04,52.01,0,0,104.2,69.37,34522.26,394.2,,,
