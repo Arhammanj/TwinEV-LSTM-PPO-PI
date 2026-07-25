@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+
+# Large data files
+*.csv
+
+# Trained models
+*.zip
+*.pkl
+
+# Generated outputs
+results/
+plots/
+
+# Jupyter
+.ipynb_checkpoints/
+backup/
+ppo_logs/
+*.png
+*.csv
+*.zip
+results/
+plots/
